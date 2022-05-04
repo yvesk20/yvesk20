@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @yvesk20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning networking
+- 💞️ I’m looking to collaborate on how to design an application
 - 📫 How to reach me ...
+yvesk20/yvesk20 is a ✨ special IT in level 4
 
-<!---
-yvesk20/yvesk20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
